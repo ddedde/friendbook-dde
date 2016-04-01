@@ -1,0 +1,40 @@
+
+body {
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  line-height: 1.86;
+}
+  
+.main-content {
+  width: 960px;
+}
+
+.cover-content {
+  width: 100%;
+  height: 100%;
+}
+
+.main-content-cell {
+  vertical-align: top;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.main-content-cell-heading{
+  font-size: 18px;
+  text-align: center;
+}
+
+.profile-image {
+  height: 200px;
+}
+
+.photograph {
+  width: 200px;
+  margin: 10px;
+}
+
+.experience {
+  width: 100%;
+}
